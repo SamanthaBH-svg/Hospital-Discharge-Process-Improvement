@@ -18,3 +18,23 @@ This project focuses on improving hospital discharge processes by analyzing pati
 -**Dashboard:** Visualizes readmission rates, patient risk levels, and discharge outcomes.
 -**Key Findings:** Highlights trends and areas for improvement.
 -**Recommendations:** Suggests actionable steps to reduce readmission rates based on analysis.
+
+---
+
+## Dashboard Screenshots
+
+### Overview Page
+![Overview](Dashboard_screenshots/Hospital_Discharge_Process_Improvement_MainDashboard.png)
+
+### High-Risk Patient Encounters
+![High-Risk Patient Encounters](Dashboard_screenshots/Hospital_Discharge_Process_Improvement_Dashboard_Project_HighRiskPatientsFiltered.png)
+
+### Medium and Low Risk Patient Encounters
+![Medium and Low Risk Patient Encounters](Dashboard_screenshots/Hospital_Discharge_Process_Improvement_Dashboard_Project_MediumLowRiskPatientsFiltered.png)
+
+### High-Risk Age Group Encounters
+![High-Risk Age Group Encounters](Dashboard_screenshots/Hospital_Discharge_Process_Improvement_Dashboard_Project_HighRiskAgeGroupFilter.png)
+
+### Project Summary
+![roject Summary](Dashboard_screenshots/Hospital_Discharge_Process_Improvement_Dashboard_Project_Summary.png)
+
