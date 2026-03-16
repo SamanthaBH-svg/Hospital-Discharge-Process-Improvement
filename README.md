@@ -1,11 +1,11 @@
 # Hospital-Discharge-Process-Improvement
-**Project Type:**Business Analyst Portfolio Project
+**Project Type:** Business Analyst Portfolio Project
 **Tools Used:** Power BI (Dax)
 **Objective:** Analyze hospital discharge processes to identify high-risk patient readmissions and recommend process improvements.
 
 ---
 
-##Project Overview
+## Project Overview
 This project focuses on improving hospital discharge processes by analyzing patient readmissions. Key goals include:
 -Identifying high-risk patients
 -Tracking readmission trends
