@@ -24,17 +24,17 @@ This project focuses on improving hospital discharge processes by analyzing pati
 ## Dashboard Screenshots
 
 ### Overview Page
-![Overview](Dashboard_screenshots/Hospital_Discharge_Process_Improvement_MainDashboard.png)
+![Overview](Dashboard_Screenshots/Hospital_Discharge_Process_Improvement_MainDashboard.png)
 
 ### High-Risk Patient Encounters
-![High-Risk Patient Encounters](Dashboard_screenshots/Hospital_Discharge_Process_Improvement_Dashboard_Project_HighRiskPatientsFiltered.png)
+![High-Risk Patient Encounters](Dashboard_Screenshots/Hospital_Discharge_Process_Improvement_Dashboard_Project_HighRiskPatientsFiltered.png)
 
 ### Medium and Low Risk Patient Encounters
-![Medium and Low Risk Patient Encounters](Dashboard_screenshots/Hospital_Discharge_Process_Improvement_Dashboard_Project_MediumLowRiskPatientsFiltered.png)
+![Medium and Low Risk Patient Encounters](Dashboard_Screenshots/Hospital_Discharge_Process_Improvement_Dashboard_Project_MediumLowRiskPatientsFiltered.png)
 
 ### High-Risk Age Group Encounters
-![High-Risk Age Group Encounters](Dashboard_screenshots/Hospital_Discharge_Process_Improvement_Dashboard_Project_HighRiskAgeGroupFilter.png)
+![High-Risk Age Group Encounters](Dashboard_Screenshots/Hospital_Discharge_Process_Improvement_Dashboard_Project_HighRiskAgeGroupFilter.png)
 
 ### Project Summary
-![roject Summary](Dashboard_screenshots/Hospital_Discharge_Process_Improvement_Dashboard_Project_Summary.png)
+![roject Summary](Dashboard_Screenshots/Hospital_Discharge_Process_Improvement_Dashboard_Project_Summary.png)
 
