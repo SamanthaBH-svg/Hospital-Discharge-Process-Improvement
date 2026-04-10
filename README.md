@@ -1,4 +1,6 @@
 # Hospital Discharge Process Improvement
+*End-to-end Business Analysis project focused on improving hospital discharge workflows, reducing readmission risk, and enhancing patient outcomes through data validation and process redesign.*
+
 
 
 ## Business Problem
@@ -23,6 +25,9 @@ After refining the definition to reflect true 30-day readmissions:
 
 
 ## My Role
+### Full Documentation
+**Business Requirements Document (BRD):**
+![View Full Document(PDF)](./Hospital_Discharge_Process_Improvement_BRD_v1.0.pdf)
 ### Business Analyst
 - Conducted end-to-end process analysis
 - Defined business and functional requirements
@@ -86,12 +91,12 @@ Value Delivered
 - Lucidchart (process mapping)
   
 ## Documentation
-*Full Business Requirements Document (BRD):*
+**Full Business Requirements Document (BRD):**
 ![View Full Document(PDF)](./Hospital_Discharge_Process_Improvement_BRD_v1.0.pdf)
 
 This document includes:
 - Stakeholder analysis
-- AS-IS ad TO-BE workflows
+- AS-IS and TO-BE workflows
 - Functional Requirements
 - Use cases and KPI's
 
@@ -110,5 +115,5 @@ This document includes:
 ![High-Risk Age Group Encounters](Dashboard_Screenshots/Hospital_Discharge_Process_Improvement_Dashboard_Project_HighRiskAgeGroupFilter.png)
 
 ### Project Summary
-![roject Summary](Dashboard_Screenshots/Hospital_Discharge_Process_Improvement_Dashboard_Project_Summary.png)
+![Project Summary](Dashboard_Screenshots/Hospital_Discharge_Process_Improvement_Dashboard_Project_Summary.png)
 
