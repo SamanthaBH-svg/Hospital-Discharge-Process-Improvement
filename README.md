@@ -39,7 +39,7 @@ This resulted in:
 - Missed follow-ups
 - Medication access issues
 - Increased readmission risk
-(Include your AS-IS flowchart image here)
+![Overview](AS_IS_Flowchart.png)
 
 ## Key Pain Points Identified
 - Inconsistent patient education
@@ -54,7 +54,7 @@ Designed a standardized, proactive discharge process including:
 - Pre-scheduled follow-up appointments
 - Standardized discharge education
 - Medication access coordination (delivery / support)
-(Include TO-BE flowchart image here)
+![Overview](TO_BE_Flowchart.png)
 
 ## Business Impact
 Key Insight
@@ -87,8 +87,15 @@ Value Delivered
   
 ## Documentation
 *Full Business Requirements Document (BRD):*
-![Overview](Dashboard_Screenshots/Hospital_Discharge_Process_Improvement_MainDashboard.png)
+![View Full Document(PDF)](./Hospital_Discharge_Process_Improvement_BRD_v1.0.pdf)
 
+This document includes:
+- Stakeholder analysis
+- AS-IS ad TO-BE workflows
+- Functional Requirements
+- Use cases and KPI's
+
+## Dashboard Screenshots
 
 ### Overview Page
 ![Overview](Dashboard_Screenshots/Hospital_Discharge_Process_Improvement_MainDashboard.png)
